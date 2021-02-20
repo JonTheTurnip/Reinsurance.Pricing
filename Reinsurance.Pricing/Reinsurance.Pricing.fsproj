@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Jon The Turnip</Authors>
+    <Description>It's early days, so use this library at your peril!  Contributions on Github very welcome :)</Description>
+    <RepositoryUrl>https://github.com/JonTheTurnip/Reinsurance.Pricing</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>reinsurance, insurance, catastrophe modelling</PackageTags>
+    <PackageProjectUrl>https://github.com/JonTheTurnip/Reinsurance.Pricing</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
